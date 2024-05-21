@@ -1,0 +1,39 @@
+
+
+.student-card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .details {
+    margin-bottom: 20px;
+  }
+  
+  .details p {
+    margin-bottom: 5px;
+  }
+  
+  .action-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+  }
+  
+  .action-button:hover {
+    background-color: #0056b3;
+  }
+  
