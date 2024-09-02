@@ -4,7 +4,7 @@ import { ShopComponent } from './shop/shop.component';
 import { StudentComponent } from './student/student.component';
 import { ProductComponent } from './product/product.component';
 import { AccountComponent } from './account/account.component';
-
+import { ProductDetailsComponent } from '../product-details/product-details.component';
 
 
 export const routes: Routes = [
@@ -23,6 +23,7 @@ export const routes: Routes = [
     {
         path:"account",
         component:AccountComponent
+        
     },
    
 ];
